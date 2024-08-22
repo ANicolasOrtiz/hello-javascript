@@ -4,13 +4,15 @@ Introducción, instalación, hola mundo y variables
 https://www.youtube.com/live/hoULS5isDck?si=qtcStT34Ef8ETBmB&t=915
 */
 
-// var
-
+// var - ya no se usa salvo un motivo extremadamente concreto.
+/*
 var helloWorld = "¡Hola, JavaScript!"
 console.log(helloWorld)
 
 helloWorld = "¡Hola de nuevo, JavaScript!"
 console.log(helloWorld)
+*/
+
 
 // let
 
